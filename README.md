@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mykolaMykhaliuk
+- 👀 I’m interested in programming in different languages and technologies
+- 🌱 I’m currently learning react native
